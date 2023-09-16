@@ -1,0 +1,17 @@
+{
+  "name": "tdnbrain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brainjs": "^0.7.4",
+    "papaparse": "^5.4.1"
+  }
+}
